@@ -1,7 +1,7 @@
 - 👋 Hi, I’m fypbjchina
 - 👀 I’m interested in Python and Data
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python study
+- 💞️ I’m looking to collaborate on Python - Beginner
 - 📫 How to reach me: fypbjchina@gmail.com
 
 <!---
