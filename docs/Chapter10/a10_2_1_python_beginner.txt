@@ -1,0 +1,6 @@
+------Python Beginner------
+Hello, Python Beginner!
+Welcome to the Python world!
+
+------Adding Information------
+I love using Python to learn Math.
