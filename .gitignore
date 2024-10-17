@@ -104,3 +104,4 @@ ENV/
 # IDE settings
 .vscode/
 .idea/
+docs/Chapter01/a01_fig/Thumbs.db
